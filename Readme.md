@@ -22,8 +22,8 @@ It demonstrates how to move between screens, pass data, and open external apps u
 ---
 
 ## 📱 Preview
-> (Add screenshot or GIF of your app here if available)
-
+![App Preview](https://github.com/user-attachments/assets/f45adba9-0179-4929-af0a-9b2cea50e3f0)
+![App Preview](https://github.com/user-attachments/assets/fcdf6c42-d295-4203-9477-b8217b22e89a)
 ---
 
 ## 📂 Project Structure
